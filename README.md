@@ -12,18 +12,48 @@
 - Postman
 
 ## Project setup
-```bash
-npm install
-```npm install express```
-```npm install nodemon```
-```npm install jsonwebtoken```
-```npm install bcryptjs```
-```npm install joi```
-```npm install dotenv```
-```npm install mysql2```
+```
+npm init
+```
 
-### Compiles and hot-reloads for development
-```bash
+### Install dependencies
+    
+```
+npm install express
+```
+
+```
+npm install nodemon
+```
+
+```
+npm install jsonwebtoken
+```
+
+```
+npm install bcryptjs
+```
+
+```
+npm install joi
+```
+
+```
+npm install dotenv
+```
+
+```
+npm install mysql2
+```
+
+### app.js
+- Create app.js file
+
+### Compiles and hot-reloads for development using nodemon
+
+```
 nodemon app.js
 ```
 
+### Customize configuration
+- See [Configuration Reference](https://expressjs.com/).
