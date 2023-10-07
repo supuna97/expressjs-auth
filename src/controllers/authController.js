@@ -1,7 +1,5 @@
-// controllers/authController.js
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
-// const { secretKey } = require('../config/database');
 const User = require('../models/user');
 
 const authController = {
