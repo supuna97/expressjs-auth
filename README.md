@@ -1,2 +1,2 @@
 # expressjs-auth
-Authentication with NodeJS Express and MYSQL.
+Authentication REST APIs with NodeJS Express and MYSQL.
