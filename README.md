@@ -57,3 +57,33 @@ nodemon app.js
 
 ### Customize configuration
 - See [Configuration Reference](https://expressjs.com/).
+
+### Postman
+- See [Postman](https://www.postman.com/).
+
+### MySQL
+- See [MySQL](https://www.mysql.com/).
+
+### JWT
+- See [JWT](https://jwt.io/).
+
+### BCRYPTJS
+- See [BCRYPTJS](https://www.npmjs.com/package/bcryptjs).
+
+### JOI
+- See [JOI](https://www.npmjs.com/package/joi).
+
+### DOTENV
+- See [DOTENV](https://www.npmjs.com/package/dotenv).
+
+### MYSQL2
+- See [MYSQL2](https://www.npmjs.com/package/mysql2).
+
+### Expressjs
+- See [Expressjs](https://expressjs.com/).
+
+### Nodejs
+- See [Nodejs](https://nodejs.org/en/).
+
+### Nodemon
+- See [Nodemon](https://nodemon.io/).
