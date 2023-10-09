@@ -1,8 +1,8 @@
 const express = require('express');
 
-const authController = require('../controllers/authController');
+const authController = require('../controllers/Api/V1/AuthController');
 
-const { userRegisterValidationRules, userLoginValidationRules } = require('../validations/userValidation');
+const { userRegisterValidationRules, userLoginValidationRules } = require('../validations/Api/V1/UserValidation');
 
 const router = express.Router();
 
